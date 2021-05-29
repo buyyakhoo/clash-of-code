@@ -1,0 +1,1 @@
+print(str('0' not in bin(int(input()))[2:]).lower())
